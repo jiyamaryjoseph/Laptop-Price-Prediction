@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 from typing import List
 
-DESRCIPTION="This is a sample project for kafka producer and consumer"
+DESRCIPTION="This is a sample project for laptop price prediction"
 
 REQUIREMENT_FILE_NAME="requirements.txt"
 
@@ -23,8 +23,8 @@ def get_requirements_list() -> List[str]:
 
 
 setup(
-    name="laptop",
-    version="0.0.0",
+    name="laptopRegressorProject",
+    version="0.0.1",
     author="jiya",
     author_email="jiyamaryjosepha@outlook.com",
     packages=find_packages(),

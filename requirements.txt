@@ -1,2 +1,2 @@
-sckitlearn
--e . # editable installation
+sckit-learn
+-e .

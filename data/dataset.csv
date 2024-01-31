@@ -1,0 +1,975 @@
+,price(in Rs.),processor,ram,os,storage,display(in inch)
+0,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+1,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+2,49990,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+3,33990,Intel Core i3 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+4,18990,AMD Athlon Dual Core Processor,4 GB DDR4 RAM,DOS Operating System,256 GB SSD,14.0
+5,86990,Apple M1 Processor,8 GB DDR4 RAM,Mac OS Operating System,256 GB SSD,13.3
+6,23990,Intel Celeron Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+7,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+8,33999,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+9,38990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+10,26990,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6
+11,66990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+12,37990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+13,56990,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+14,39990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+15,46990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,14.0
+16,37990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+17,49123,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+18,47990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+19,86500,Intel Core i5 Processor (12th Gen),16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+20,86990,Apple M1 Processor,8 GB DDR4 RAM,Mac OS Operating System,256 GB SSD,13.3
+21,44990,Intel Core i3 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+22,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+23,38990,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+24,33890,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+25,33990,Intel Core i3 Processor (10th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14.0
+26,26990,AMD Athlon Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+27,38500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+28,45909,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+29,49990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+30,40950,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+31,52890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+32,99990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+33,59990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+34,58018,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+35,38699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+36,32990,Qualcomm Snapdragon 7c Gen 2 Processor,4 GB LPDDR4X RAM,Windows 11 Operating System,512 GB SSD,14.0
+37,53990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+38,64990,Intel Core i5 Processor (12th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+39,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+40,46990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,14.0
+41,109990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,17.3
+42,68114,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+43,56049,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+44,25990,Intel Pentium Silver Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+45,33990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+46,38990,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 RAM,32 bit Windows 11 Operating System,512 GB SSD,14.0
+47,47039,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+48,67990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+49,40990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+50,46990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,14.0
+51,38500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+52,49990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+53,131990,Apple M2 Processor,8 GB Unified Memory RAM,Mac OS Operating System,512 GB SSD,13.6
+54,159990,Intel Core i9 Processor (12th Gen),32 GB LPDDR5 RAM,Windows 11 Operating System,1 TB SSD,14.0
+55,52890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+56,74990,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+57,61990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+58,74990,Intel Core i5 Processor (11th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+59,38699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+60,46990,Intel Core i3 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+61,57990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+62,51990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+63,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+64,89990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,14.0
+65,86990,Apple M1 Processor,8 GB DDR4 RAM,Mac OS Operating System,256 GB SSD,13.3
+66,47039,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+67,56049,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+68,64990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+69,64990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+70,35990,Intel Core i3 Processor (10th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+71,38290,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+73,17990,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,Chrome Operating System,2 TB SSD,15.6
+74,15990,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,Chrome Operating System,2 TB SSD,11.6
+75,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+76,42990,Intel Core i3 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+77,138990,Intel Core i7 Processor (13th Gen),16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,17.3
+78,54990,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.0
+79,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+80,30990,Intel Core i3 Processor (10th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+81,50990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14.0
+82,79990,Intel Core i5 Processor (11th Gen),16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+83,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+84,22900,AMD Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+85,33751,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+86,116250,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+87,50990,Intel Core i3 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+88,45990,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+89,90400,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,Windows 11 Operating System,1 TB SSD,17.3
+90,91990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14.0
+91,62499,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+92,76999,Intel Core i5 Processor (12th Gen),8 GB DDR5 RAM,Windows 11 Operating System,512 GB SSD,15.6
+93,51990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+94,32990,AMD Athlon Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+95,45990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+96,88499,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.1
+97,65990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+98,85990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+99,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+100,104990,Intel Core i7 Processor (12th Gen),16 GB LPDDR4X RAM,Windows 11 Operating System,512 GB SSD,13.3
+101,139990,Apple M2 Processor,8 GB Unified Memory RAM,Mac OS Operating System,512 GB SSD,13.6
+102,113490,Apple M2 Processor,8 GB Unified Memory RAM,Mac OS Operating System,256 GB SSD,13.6
+103,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+104,113990,Apple M2 Processor,8 GB Unified Memory RAM,Mac OS Operating System,256 GB SSD,13.6
+105,74990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+106,89990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+107,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+108,41990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+109,63990,Intel Core i5 Processor (11th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+110,86990,Intel Core i5 Processor (12th Gen),16 GB LPDDR4X RAM,Windows 11 Operating System,512 GB SSD,13.4
+111,61990,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+112,88990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,17.3
+113,249990,Intel Core i7 Processor (13th Gen),32 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,17.3
+114,129990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+115,294990,Intel Core i9 Processor (12th Gen),32 GB DDR5 RAM,64 bit Windows 11 Operating System,2 TB SSD,17.3
+116,61990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+117,76990,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+118,104990,Apple M1 Processor,16 GB DDR4 RAM,Mac OS Operating System,256 GB SSD,13.3
+119,78990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+120,63990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+121,107990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+122,76999,Intel Core i5 Processor (12th Gen),8 GB DDR5 RAM,Windows 11 Operating System,512 GB SSD,15.6
+123,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+124,68990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+125,57990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+126,95990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+127,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+128,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+129,105990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.0
+130,82990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+131,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+132,78990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+133,59990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14.0
+134,61400,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+135,37990,Intel Core i5 Processor (10th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+136,77070,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+137,56990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14.0
+138,56990,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+139,42490,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+140,95990,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|512 GB SSD,15.6
+141,44290,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+142,63550,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+143,119990,Intel Core i9 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+144,129990,Apple M1 Processor,16 GB DDR4 RAM,Mac OS Operating System,512 GB SSD,13.3
+145,161990,AMD Ryzen 9 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+146,47990,Intel Core i5 Processor (11th Gen),16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+147,38500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+148,73990,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+150,45990,Intel Core i3 Processor (12th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+151,52890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+152,27990,Intel Celeron Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6
+153,62050,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+154,52990,Intel Core i7 Processor (11th Gen),16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+155,38699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+156,44290,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+157,57990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+158,65990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+159,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+160,58490,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+161,56990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14.0
+162,41190,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+163,56049,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+164,57990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+165,85990,Intel Core i7 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+166,55990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+167,47039,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+168,44990,Intel Core i3 Processor (11th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+169,32000,Intel Pentium Silver Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6
+170,89990,Intel Core i5 Processor (12th Gen),16 GB LPDDR5 RAM,Windows 11 Operating System,512 GB SSD,14.0
+171,38500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+172,88900,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+173,41990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+174,89990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+175,52890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+176,44490,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14.0
+177,47990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+178,72990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+179,38699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+180,44990,Intel Core i3 Processor (11th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+181,65990,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+182,59990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14.0
+183,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+184,56990,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+185,34690,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,32 bit Windows 11 Operating System,512 GB SSD,14.0
+186,213894,Apple M1 Pro Processor,16 GB Unified Memory RAM,Mac OS Operating System,1 TB SSD,14.2
+187,56049,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+188,35990,Intel Core i3 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+189,50499,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+190,170990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,17.3
+191,47039,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+192,40990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+193,78190,Intel Core i5 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,13.3
+194,43490,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+195,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+196,50499,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+197,49990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+198,199900,Apple M2 Pro Processor,16 GB Unified Memory RAM,Mac OS Operating System,512 GB SSD,14.0
+199,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+200,34690,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,32 bit Windows 11 Operating System,512 GB SSD,14.0
+201,99990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+202,36990,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+203,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+204,224990,AMD Ryzen 7 Octa Core Processor,32 GB DDR5 RAM,64 bit Windows 11 Operating System,2 TB SSD,16.0
+205,56990,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+206,121990,Apple M2 Processor,8 GB Unified Memory RAM,Mac OS Operating System,256 GB SSD,13.3
+207,87990,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+208,42900,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+209,88490,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+210,46990,Intel Core i3 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+211,89990,Intel Core i5 Processor (12th Gen),16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+212,140990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+213,106490,Apple M1 Processor,16 GB DDR4 RAM,Mac OS Operating System,256 GB SSD,13.3
+214,25990,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,64 bit Chrome Operating System,256 GB SSD,14.0
+215,89990,Intel Core i5 Processor (12th Gen),16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+216,89990,Intel Core i5 Processor (12th Gen),16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+217,140990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+218,106490,Apple M1 Processor,16 GB DDR4 RAM,Mac OS Operating System,256 GB SSD,13.3
+219,38500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+220,79990,Intel Core i5 Processor (12th Gen),8 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+221,89990,Intel Core i7 Processor (12th Gen),16 GB LPDDR4 RAM,Windows 11 Operating System,512 GB SSD,13.3
+222,72990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+223,52890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+224,63550,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+225,76519,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+226,34990,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+227,38699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+228,38029,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6
+229,104990,Apple M1 Processor,8 GB DDR4 RAM,Mac OS Operating System,512 GB SSD,13.3
+230,25990,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,64 bit Chrome Operating System,512 GB SSD,14.0
+231,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+232,23990,Intel Pentium Quad Core Processor,4 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6
+233,31990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6
+234,49890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+235,56049,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+236,74990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+237,60290,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+238,126990,Apple M1 Processor,16 GB DDR4 RAM,Mac OS Operating System,512 GB SSD,13.3
+239,47039,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+240,60990,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+241,155490,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.1
+242,64990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+243,38500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+244,41490,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+245,77990,Intel Core i5 Processor (12th Gen),16 GB DDR5 RAM,Windows 11 Operating System,512 GB SSD,15.6
+246,94500,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+247,52890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+248,154990,AMD Ryzen 9 Octa Core Processor,16 GB DDR4 RAM,Windows 10 Operating System,1 TB SSD,15.6
+249,168990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+250,63890,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+251,38699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+252,74990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+253,65990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+254,23990,Intel Pentium Quad Core Processor,4 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6
+255,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+256,114990,Apple M1 Processor,8 GB DDR4 RAM,Mac OS Operating System,256 GB SSD,13.3
+257,63990,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+258,80990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+259,56049,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+260,97990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,14.0
+261,39490,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6
+262,281990,Intel Core i9 Processor (12th Gen),32 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+263,47039,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+264,31561,Intel Core i3 Processor (10th Gen),4 GB DDR4 RAM,Windows 11 Operating System,256 GB SSD,14.0
+265,48990,Intel Core i5 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+266,36990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,256 GB SSD,15.6
+267,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+268,66190,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.0
+269,54990,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6
+270,243990,Apple M1 Pro Processor,16 GB Unified Memory RAM,Mac OS Operating System,1 TB SSD,16.2
+271,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+272,41890,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+273,104990,Intel Core i7 Processor (11th Gen),16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,13.3
+274,42990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6
+275,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+276,104990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+277,86490,Intel Core i7 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+278,129990,AMD Ryzen 9 Octa Core Processor (5th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+279,52890,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+280,71990,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.1
+281,191990,AMD Ryzen 9 Octa Core Processor,32 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,14.0
+282,146990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+283,109990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,Windows 11 Operating System,1 TB SSD,15.6
+284,77990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.1
+285,31490,AMD Ryzen 3 Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6
+286,39990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+287,61500,AMD Ryzen 5 Hexa Core Processor,8 GB LPDDR4X RAM,64 bit Windows 10 Operating System,512 GB SSD,14.0
+288,57990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+289,131990,Apple M2 Processor,16 GB Unified Memory RAM,Mac OS Operating System,256 GB SSD,13.6
+290,90390,AMD Ryzen 9 Octa Core Processor (9th Gen),16 GB DDR4 RAM,Windows 11 Operating System,1 TB SSD,15.6
+291,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+292,228928,Intel Core i9 Processor (12th Gen),32 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+294,62990,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14.0
+295,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+296,174990,AMD Ryzen 9 Octa Core Processor,16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,15.6
+297,61690,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+298,79990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+299,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+300,75990,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,Windows 11 Operating System,1 TB HDD|512 GB SSD,15.6
+301,129989,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.0
+302,139990,Apple M2 Processor,8 GB Unified Memory RAM,Mac OS Operating System,512 GB SSD,13.6
+303,68990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+304,177990,AMD Ryzen 9 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+305,62490,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+306,109990,Apple M1 Processor,8 GB DDR4 RAM,Mac OS Operating System,512 GB SSD,13.3
+307,61990,Intel Core i5 Processor (12th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6
+308,60990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+309,70990,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+310,110000,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.1
+311,76990,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+312,33990,Intel Core i3 Processor (11th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+313,31990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6
+315,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+316,109990,Apple M1 Processor,8 GB DDR4 RAM,Mac OS Operating System,512 GB SSD,13.3
+317,129990,AMD Ryzen 9 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6
+318,51532,Intel Core i5 Processor (12th Gen),16 GB LPDDR5 RAM,Windows 11 Operating System,512 GB SSD,15.6
+319,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+320,144100,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6
+321,63500,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+322,20990,Intel Celeron Quad Core Processor,4 GB LPDDR4X RAM,64 bit Windows 11 Operating System,128 GB SSD,14.0
+323,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+324,124990,Intel Core i5 Processor (12th Gen),16 GB LPDDR5 RAM,Windows 11 Operating System,512 GB SSD,14.5
+325,72990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+326,189990,AMD Ryzen 7 Octa Core Processor,32 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.0
+327,65999,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+328,28500,Intel Pentium Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.1
+329,129990,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6
+330,19990,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,DOS Operating System,256 GB HDD|256 GB SSD,15.6
+331,67990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+332,64590,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,17.3
+333,115300,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6
+334,61990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+335,26490,Intel Pentium Silver Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+336,114990,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6
+337,114990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,17.3
+338,59990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.0
+339,38500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+340,63590,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.0
+341,199999,Intel Core i7 Processor (12th Gen),32 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,17.3
+343,52890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+344,40990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+345,109990,Apple M1 Processor,8 GB DDR4 RAM,Mac OS Operating System,512 GB SSD,13.3
+346,72990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+347,38699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+348,64590,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,17.3
+349,115300,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6
+350,46040,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,14.0
+351,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+352,55990,AMD Ryzen 5 Dual Core Processor (5th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+353,24999,Intel Celeron Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+354,76990,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,17.3
+355,56049,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+356,71590,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.0
+357,59999,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+359,47039,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+360,40390,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+361,20990,Intel Celeron Quad Core Processor,4 GB LPDDR4X RAM,64 bit Windows 11 Operating System,128 GB SSD,14.0
+362,61990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+363,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+364,68400,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+365,88990,Intel Core i5 Processor (12th Gen),8 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+366,159990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.0
+367,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+368,39490,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+369,150990,Apple M2 Processor,16 GB Unified Memory RAM,Mac OS Operating System,512 GB SSD,13.6
+370,241990,Apple M1 Pro Processor,16 GB Unified Memory RAM,Mac OS Operating System,1 TB SSD,16.2
+371,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+372,56749,Intel Core i3 Processor (12th Gen),8 GB DDR5 RAM,Windows 11 Operating System,256 GB SSD,14.0
+373,247990,AMD Ryzen 7 Octa Core Processor,16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,13.4
+374,181990,Intel Core i9 Processor (12th Gen),16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,13.4
+375,114990,Intel Core i7 Processor (12th Gen),16 GB LPDDR4X RAM,Windows 11 Operating System,1 TB SSD,13.3
+376,146990,AMD Ryzen 9 Octa Core Processor,16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,15.6
+377,149990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+378,51532,Intel Core i5 Processor (12th Gen),16 GB LPDDR5 RAM,Windows 11 Operating System,512 GB SSD,15.6
+379,52490,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+380,244990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+381,131990,Apple M2 Processor,16 GB Unified Memory RAM,Mac OS Operating System,256 GB SSD,13.6
+382,77990,Intel Core i5 Processor (12th Gen),16 GB DDR5 RAM,Windows 11 Operating System,512 GB SSD,15.6
+383,139990,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,Windows 10 Operating System,1 TB SSD,16.0
+384,59990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+385,84990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+386,70900,Intel Core i5 Processor (11th Gen),16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+387,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+388,35699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6
+389,84990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+390,128000,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.1
+391,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+392,43500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+393,58226,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 10 Operating System,512 GB SSD,15.6
+394,103490,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+395,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+396,60990,Intel Core i5 Processor (11th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,13.3
+397,150450,Intel Core i7 Processor (12th Gen),16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,13.4
+398,39990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+399,139999,Intel Core i9 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+400,156490,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+401,78990,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+402,16490,Intel Celeron Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,128 GB SSD,14.1
+403,171990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.0
+404,250000,Intel Core i7 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6
+405,151990,Intel Core i9 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+406,57990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+407,71990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14.96
+408,80990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+409,46990,AMD Ryzen 7 Quad Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+410,73990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+411,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+412,88990,AMD Ryzen 5 Hexa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+413,145499,Intel Core i7 Processor (12th Gen),16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,16.0
+414,33990,Intel Core i3 Processor (11th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+415,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+416,275990,Intel Core i7 Processor (12th Gen),32 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+417,39990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+418,58800,Intel Core i5 Processor (7th Gen),8 GB DDR3 RAM,64 bit Windows 10 Operating System,256 GB SSD,13.3
+419,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+420,101490,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6
+421,219894,Apple M1 Pro Processor,16 GB Unified Memory RAM,Mac OS Operating System,1 TB SSD,14.2
+422,69990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+423,41990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 10 Operating System,1 TB HDD,15.6
+424,57990,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14.0
+425,162990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+426,89990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,15.6
+427,72790,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+428,60130,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6
+429,74990,Intel Core i5 Processor (9th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+430,157990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+431,284990,AMD Ryzen 7 Octa Core Processor,32 GB LPDDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,13.4
+432,59490,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+433,58490,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+434,254990,AMD Ryzen 9 Octa Core Processor,16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,15.6
+435,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+436,218290,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,16.0
+437,29990,Intel Core i3 Processor (10th Gen),4 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,14.0
+438,98060,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,13.3
+439,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+440,87390,Intel Core i7 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6
+441,171990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.1
+442,214790,Intel Core i7 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6
+443,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+444,199990,Intel Core i7 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+445,85490,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14.0
+446,61990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Chrome Operating System,256 GB SSD,14.0
+447,249900,Apple M2 Pro Processor,16 GB Unified Memory RAM,Mac OS Operating System,1 TB SSD,14.0
+448,59990,Intel Core i7 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14.0
+449,204000,AMD Ryzen 7 Octa Core Processor,32 GB DDR5 RAM,64 bit Windows 11 Operating System,2 TB SSD,16.0
+450,61890,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+451,229990,Intel Core i7 Processor (12th Gen),32 GB LPDDR5 RAM,64 bit Windows 11 Operating System,2 TB SSD,16.0
+453,74990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+454,132765,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.1
+455,46990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,14.0
+456,174990,AMD Ryzen 9 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+457,42690,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.96
+458,59990,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+459,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+460,222990,Apple M1 Pro Processor,16 GB Unified Memory RAM,Mac OS Operating System,512 GB SSD,16.2
+461,42990,Intel Core i3 Processor (12th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+462,156090,Intel Core i7 Processor (10th Gen),32 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|512 GB SSD,15.6
+463,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+464,69890,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+465,63990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+466,108990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+467,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+469,84790,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+470,131990,Apple M2 Processor,16 GB Unified Memory RAM,Mac OS Operating System,256 GB SSD,13.6
+471,58500,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+472,33200,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+473,41890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+474,210990,AMD Ryzen 9 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,17.3
+475,176490,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+476,35990,Intel Core i3 Processor (10th Gen),4 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+477,130990,Intel Core i7 Processor (12th Gen),16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,13.5
+478,71990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+479,105990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+480,58900,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+481,210990,Intel Core i9 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,16.0
+482,65990,AMD Ryzen 7 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+483,38500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+484,150490,Intel Core i7 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,2 TB SSD,15.6
+485,42490,Intel Core i3 Processor (10th Gen),4 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,14.0
+486,131990,Apple M2 Processor,8 GB Unified Memory RAM,Mac OS Operating System,512 GB SSD,13.6
+487,38699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+488,52890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+489,18990,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,64 bit Chrome Operating System,512 GB SSD,11.6
+490,78190,Intel Core i5 Processor (11th Gen),8 GB LPDDR4X RAM,64 bit Windows 10 Operating System,1 TB SSD,13.3
+491,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+493,34990,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+494,119990,Intel Core i9 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+495,56049,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+496,70430,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+497,69290,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,DOS Operating System,1 TB HDD,14.0
+498,18990,Intel Celeron Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD,11.6
+499,47039,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+500,249900,Apple M2 Pro Processor,16 GB Unified Memory RAM,Mac OS Operating System,1 TB SSD,14.0
+501,39490,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6
+502,64990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+503,38290,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+504,84990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+505,30990,Intel Core i3 Processor (10th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+506,163990,Intel Core i5 Processor (8th Gen),8 GB DDR3 RAM,Mac OS Operating System,512 GB SSD,13.3
+507,38500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+508,41999,Intel Celeron Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+509,55990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+510,54890,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB HDD|512 GB SSD,15.6
+511,52890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+512,114990,Intel Core i5 Processor (12th Gen),16 GB DDR5 RAM,Windows 11 Operating System,512 GB SSD,13.4
+513,88890,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+514,54990,AMD Ryzen 5 Hexa Core Processor (10th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,16.0
+515,38699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+516,40690,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,14.0
+517,24290,Intel Celeron Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,128 GB SSD,11.6
+518,111500,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.1
+519,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+520,74990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+521,54990,AMD Ryzen 5 Dual Core Processor (10th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,16.0
+522,131990,Apple M2 Processor,8 GB Unified Memory RAM,Mac OS Operating System,512 GB SSD,13.6
+523,56049,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+524,209990,Intel Core i7 Processor (12th Gen),32 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,14.0
+525,37990,Intel Core i5 Processor (10th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+526,158990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,15.6
+527,47039,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+528,37890,Intel Core i3 Processor (10th Gen),8 GB DDR4 RAM,Windows 10 Operating System,256 GB SSD,14.0
+529,92990,Intel Core i5 Processor (12th Gen),16 GB DDR5 RAM,Windows 11 Operating System,512 GB SSD,15.6
+530,233990,Intel Core i7 Processor (10th Gen),16 GB LPDDR3 RAM,64 bit Windows 10 Operating System,2 TB SSD,14.0
+531,38500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+532,127490,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+533,193990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+534,129999,Intel Core i5 Processor (7th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|128 GB SSD,15.6
+535,52890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+536,78061,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+537,98246,AMD Ryzen 7 Octa Core Processor (5th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14.0
+538,157990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+539,38699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+540,185790,Intel Core i7 Processor (8th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+541,41290,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,14.96
+542,38690,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6
+543,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+544,71990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,Windows 10 Operating System,512 GB SSD,15.6
+545,72490,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+546,61999,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+547,56049,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+548,105990,AMD Ryzen 9 Octa Core Processor,16 GB DDR4 RAM,Windows 10 Operating System,512 GB SSD,15.6
+549,206990,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6
+550,119990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.0
+551,47039,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+552,239990,Intel Core i7 Processor (12th Gen),32 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.0
+553,62990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+554,189990,AMD Ryzen 7 Octa Core Processor,32 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,16.0
+555,38500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+556,42690,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,15.6
+557,73990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+558,82990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.1
+559,52890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+560,59990,Intel Core i3 Processor (12th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14.0
+561,115990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,Windows 11 Operating System,1 TB SSD,15.6
+562,214990,Intel Core i7 Processor (10th Gen),32 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6
+563,38699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+564,93900,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+565,58499,Intel Core i5 Processor (9th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+566,50983,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+567,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+568,219990,Intel Core i9 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.0
+569,47090,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14.0
+570,66990,Intel Core i7 Processor (8th Gen),8 GB LPDDR3 RAM,64 bit Windows 10 Operating System,512 GB SSD,13.3
+571,56049,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+572,40200,Intel Core i3 Processor (10th Gen),4 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,15.6
+573,47990,Intel Core i3 Processor (12th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14.0
+574,59990,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+575,47039,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+576,77070,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14.0
+577,51890,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+578,61249,Intel Core i5 Processor (10th Gen),4 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,14.0
+579,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+580,35500,Intel Pentium Quad Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6
+581,107690,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.1
+582,131990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+583,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+584,28490,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14.0
+585,64990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+586,146490,Intel Core i7 Processor (7th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6
+587,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+588,60090,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+589,34990,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,Windows 11 Operating System,256 GB HDD|256 GB SSD,15.6
+590,40699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+591,71999,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,Windows 11 Operating System,1 TB SSD,15.6
+592,69990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+593,62990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,16.1
+594,63090,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,35.0
+595,98990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,"PCI-e SSD (NVMe) ready,Silver-Lining Print Keyboard,Matrix Display (Extend),Cooler Boost 5,Hi-Res Audio,Nahimic 3,144Hz Panel,Thin Bezel,RGB Gaming Keyboard,Speaker Tuning Engine,MSI Center",15.6
+596,107990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.1
+597,48999,Intel Core i3 Processor (10th Gen),4 GB DDR4 RAM,Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6
+598,57890,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+599,88490,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.0
+600,99850,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.1
+601,48999,Intel Core i3 Processor (10th Gen),4 GB DDR4 RAM,Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6
+602,40890,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,15.6
+603,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+604,40690,Intel Core i3 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+605,170990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.1
+606,170990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.1
+607,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+608,71857,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+609,154990,Intel Core i7 Processor (10th Gen),16 GB LPDDR3 RAM,64 bit Windows 10 Operating System,1 TB SSD,14.0
+610,100500,Intel Core i5 Processor (8th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+611,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+612,94075,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+613,249900,Apple M2 Pro Processor,16 GB Unified Memory RAM,Mac OS Operating System,512 GB SSD,16.0
+614,79990,Intel Core i5 Processor (10th Gen),8 GB LPDDR3 RAM,64 bit Windows 10 Operating System,512 GB SSD,13.3
+615,115999,Intel Core i7 Processor (12th Gen),16 GB LPDDR5 RAM,Windows 11 Operating System,1 TB SSD,14.0
+616,27990,AMD Ryzen 3 Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+617,98990,AMD Ryzen 9 Octa Core Processor (10th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,16.6
+618,42990,Intel Core i5 Processor (11th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+619,44190,Intel Core i3 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.96
+620,79990,Intel Core i5 Processor (11th Gen),16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+621,96990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,15.6
+622,42990,Intel Core i3 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14.0
+623,234990,Intel Core i7 Processor (10th Gen),32 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6
+624,85990,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,16.1
+625,22990,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,Chrome Operating System,512 GB SSD,15.6
+626,107331,Intel Core i7 Processor (12th Gen),16 GB LPDDR5 RAM,Windows 11 Operating System,512 GB SSD,14.0
+627,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+628,38990,Intel Core i3 Processor (11th Gen),4 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,15.0
+629,37990,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+630,150990,AMD Ryzen 9 Octa Core Processor,16 GB DDR4 RAM,Windows 11 Operating System,1 TB SSD,15.6
+631,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+632,76990,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+633,79000,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,13.3
+634,84198,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.1
+635,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+636,42990,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+637,177900,AMD Ryzen 7 Octa Core Processor,32 GB LPDDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,13.4
+638,62490,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6
+639,79990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+640,151990,AMD Ryzen 9 Octa Core Processor,16 GB LPDDR5 RAM,Windows 11 Operating System,1 TB SSD,13.4
+641,30990,Intel Core i3 Processor (11th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6
+642,147990,AMD Ryzen 7 Octa Core Processor,16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,13.4
+643,37490,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6
+644,118990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.0
+645,39990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+646,234990,AMD Ryzen 9 Octa Core Processor,32 GB LPDDR4X RAM,64 bit Windows 10 Operating System,1 TB SSD,13.4
+647,171990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,16.0
+648,94990,Intel Core i5 Processor (11th Gen),16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,16.1
+649,66990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+650,40788,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+651,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+652,42500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,1 TB HDD,15.6
+653,60990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+654,58990,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+655,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+656,119990,Intel Core i7 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6
+657,105990,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+658,184990,Intel Core i7 Processor (13th Gen),16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,17.3
+659,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+660,192990,Intel Core i7 Processor (11th Gen),32 GB DDR4 RAM,Windows 11 Operating System,1 TB SSD,16.0
+661,38999,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6
+662,135990,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6
+663,68490,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+664,88390,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,14.0
+665,113104,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,13.3
+666,114990,AMD Ryzen 7 Octa Core Processor,16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,13.4
+667,56000,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+668,149990,Intel Core i7 Processor (12th Gen),8 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,16.0
+669,116640,Intel Core i7 Processor (6th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|128 GB SSD,15.6
+670,102551,Intel Core i5 Processor (7th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|128 GB SSD,15.6
+671,16990,Intel Celeron Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,128 GB SSD,14.1
+672,131990,Apple M2 Processor,8 GB Unified Memory RAM,Mac OS Operating System,512 GB SSD,13.6
+673,44900,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14.0
+674,98990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.1
+675,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+676,50990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+677,46990,Intel Core i7 Processor (10th Gen),16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+678,147990,Intel Core i7 Processor (13th Gen),16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,17.3
+679,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+680,45890,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,1 TB HDD|256 GB SSD,15.0
+681,60490,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+682,69990,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.3
+683,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+684,62490,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,14.0
+685,20990,AMD Athlon Dual Core Processor,4 GB DDR4 RAM,Windows 10 Operating System,256 GB SSD,14.0
+686,41990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+687,76490,Intel Core i7 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+688,191990,Intel Core i9 Processor (12th Gen),16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,13.4
+689,42890,Intel Core i3 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+690,49890,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+691,69490,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+692,110990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+693,62990,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+694,64490,Intel Core i3 Processor (12th Gen),8 GB DDR5 RAM,Windows 11 Operating System,512 GB SSD,14.0
+695,28990,Intel Core i3 Processor (7th Gen),4 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6
+696,42990,Intel Core i3 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6
+697,91958,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14.0
+698,74990,Intel Core i5 Processor (11th Gen),16 GB LPDDR4X RAM,64 bit Windows 10 Operating System,PCI-e Gen4 SSD?SHIFT?Matrix Display (Extend)?Cooler Boost 3?Thunderbolt 4?Finger Print Security?True Color 2.0?Hi-Res Audio?Nahimic 3? 4-Sided Thin bezel?MSI Center?Silky Smooth Touchpad?Military-Grade Durability,14.0
+699,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+700,59990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+701,209690,Intel Core i9 Processor (8th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6
+702,74990,Intel Core i7 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14.0
+703,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+704,88570,Intel Core i7 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+705,42990,Intel Core i5 Processor (11th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+706,81600,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,13.3
+707,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+708,122990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+709,47990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+710,35990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,15.6
+711,30650,Intel Core i3 Processor (10th Gen),4 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,14.1
+712,52575,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+713,37890,Intel Core i3 Processor (10th Gen),4 GB DDR4 RAM,Windows 10 Operating System,256 GB SSD,15.6
+714,45990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+715,39890,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+716,37990,Intel Core i5 Processor (10th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+717,33990,Intel Core i3 Processor (7th Gen),4 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,14.0
+718,24490,AMD APU Dual Core A6 Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,14.0
+719,63290,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+720,63290,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+721,54960,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+722,61200,AMD Ryzen 5 Hexa Core Processor,16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+723,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+724,39890,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+725,24490,AMD APU Dual Core A6 Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,14.0
+726,71490,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.0
+727,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+728,67990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+729,99990,Intel Core i7 Processor (8th Gen),16 GB DDR3 RAM,64 bit Windows 10 Operating System,512 GB SSD,13.3
+730,104405,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,15.6
+731,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+732,94990,Intel Core i5 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,17.3
+733,43390,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14.0
+734,99990,Intel Core i5 Processor (12th Gen),16 GB DDR5 RAM,Windows 11 Operating System,512 GB SSD,13.4
+735,160180,AMD Ryzen 9 Octa Core Processor,32 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.1
+736,26990,AMD Ryzen 3 Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,15.6
+737,174990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,Windows 11 Operating System,512 GB SSD,16.0
+738,41960,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+739,68990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,Windows 11 Operating System,1 TB HDD|512 GB SSD,15.6
+740,149610,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+741,63990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6
+742,27990,AMD Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+743,68990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+744,60490,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6
+745,69351,Intel Core i5 Processor (8th Gen),8 GB DDR3 RAM,64 bit Windows 10 Operating System,512 GB SSD,14.0
+746,261990,AMD Ryzen 9 Octa Core Processor,32 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.0
+747,38500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+748,79000,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+749,27990,AMD Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+750,64000,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+751,52890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+752,40699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+753,269990,Intel Core i9 Processor (10th Gen),32 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6
+754,99990,Intel Core i5 Processor (12th Gen),16 GB DDR5 RAM,Windows 11 Operating System,512 GB SSD,13.4
+755,38699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+756,25990,Intel Celeron Dual Core Processor (4th Gen),4 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,14.0
+757,50600,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+758,108290,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.1
+759,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+760,37990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit DOS Operating System,256 GB SSD,15.6
+761,38990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.1
+762,35960,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+763,56049,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+764,80000,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6
+765,30990,Intel Core i3 Processor (11th Gen),4 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+766,45990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+767,47039,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+768,50890,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+769,85990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14.0
+770,122560,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,Windows 11 Operating System,512 GB SSD,16.2
+771,38500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+772,73990,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,17.3
+773,121677,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.1
+774,39990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+775,52890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+776,63331,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.0
+777,43490,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6
+778,25990,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,Chrome Operating System,1 TB HDD,14.0
+779,38699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+780,136000,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.1
+781,81990,Intel Core i5 Processor (8th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,14.0
+782,119990,Intel Core i7 Processor (7th Gen),8 GB DDR3 RAM,64 bit Windows 10 Operating System,256 GB SSD,14.0
+783,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+784,130500,AMD Ryzen 9 Octa Core Processor (9th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.0
+785,86000,Intel Core i7 Processor (8th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,13.3
+786,79990,AMD Ryzen 7 Octa Core Processor,16 GB LPDDR4X RAM,64 bit Windows 10 Operating System,1 TB SSD,13.3
+787,56049,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+788,59990,Intel Core i7 Processor (7th Gen),8 GB DDR4 RAM,DOS Operating System,1 TB HDD,15.6
+789,119990,Intel Core i7 Processor (12th Gen),16 GB LPDDR5 RAM,Windows 11 Operating System,512 GB SSD,14.0
+790,84990,Intel Core i5 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+791,47039,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+792,189990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,15.6
+793,74990,Intel Core i5 Processor (8th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,13.3
+794,68690,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6
+795,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+796,92070,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14.0
+797,57890,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+798,180990,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,17.3
+799,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+800,62990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14.0
+801,136590,Intel Core i5 Processor (8th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,13.3
+802,73070,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+803,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+804,88990,Intel Core i9 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+805,40250,Intel Core i3 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6
+806,61890,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+807,62180,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+808,97500,Intel Core i5 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+809,74490,Intel Core i5 Processor (8th Gen),8 GB LPDDR3 RAM,64 bit Windows 10 Operating System,512 GB SSD,13.3
+810,167990,AMD Ryzen 7 Octa Core Processor,32 GB LPDDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,13.4
+811,73990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+812,104990,Intel Core i7 Processor (12th Gen),16 GB LPDDR5 RAM,Windows 11 Operating System,512 GB SSD,14.0
+813,149990,Intel Core i7 Processor (8th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+814,42800,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+815,85990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,17.3
+816,59000,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,16.1
+817,97500,Intel Core i5 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+818,73990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+819,38500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+820,62779,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+821,46490,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6
+822,129990,Apple M1 Processor,8 GB DDR4 RAM,Mac OS Operating System,512 GB SSD,13.3
+823,52890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+824,52990,Intel Core i7 Processor (11th Gen),16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+825,72990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+826,176990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,14.0
+827,38699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+828,59990,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+829,44990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+830,61000,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+831,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+832,31490,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6
+833,99990,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,128 GB SSD,15.0
+834,166990,AMD Ryzen 9 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+835,56049,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+836,28960,Intel Pentium Quad Core Processor,8 GB DDR4 RAM,Windows 11 Operating System,256 GB SSD,14.0
+837,94990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+838,94990,AMD Ryzen 7 Octa Core Processor,8 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.1
+839,47039,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+840,59990,Intel Core i5 Processor (9th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+841,62779,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+842,22990,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,Chrome Operating System,512 GB SSD,11.6
+843,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+844,42550,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,256 GB SSD,15.6
+845,29990,Intel Core i3 Processor (10th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6
+846,85499,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+847,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+848,67990,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,16.0
+849,152124,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.0
+850,89990,Intel Core i5 Processor (12th Gen),8 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+851,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+852,206490,Intel Core i9 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6
+853,28490,Intel Celeron Dual Core Processor,4 GB LPDDR4X RAM,64 bit Chrome Operating System,1 TB SSD,11.6
+854,45126,Intel Core i5 Processor (8th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,14.0
+855,239759,Intel Core i7 Processor (10th Gen),16 GB LPDDR3 RAM,64 bit Windows 10 Operating System,512 GB SSD,13.3
+856,144990,Intel Core i9 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6
+857,65990,Intel Core i7 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+858,29990,Intel Core i3 Processor (10th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6
+859,72990,AMD Ryzen 5 Hexa Core Processor (10th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14.0
+860,66490,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14.0
+861,43090,Intel Core i3 Processor (11th Gen),4 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,35.0
+862,43490,AMD Ryzen 3 Dual Core Processor (3rd Gen),8 GB DDR4 RAM,Windows 10 Operating System,256 GB SSD,15.6
+863,181890,Intel Core i7 Processor (12th Gen),16 GB LPDDR5 RAM,Windows 11 Operating System,1 TB SSD,13.3
+864,33490,Intel Core i3 Processor (10th Gen),8 GB DDR4 RAM,Windows 11 Operating System,256 GB SSD,15.6
+865,47130,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6
+866,39999,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,DOS Operating System,512 GB SSD,15.6
+867,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+868,76990,AMD Ryzen 7 Octa Core Processor (4th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,14.0
+869,99900,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+870,160990,Intel Core i7 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6
+871,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+872,24990,Intel Celeron Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,11.6
+873,68290,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+874,36000,Intel Core i3 Processor (11th Gen),4 GB DDR4 RAM,DOS Operating System,1 TB HDD,15.6
+875,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+876,68990,Intel Core i5 Processor (5th Gen),8 GB DDR3 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6
+877,105890,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+878,54990,Intel Core i5 Processor (8th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14.0
+879,66666,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,Windows 10 Operating System,512 GB SSD,13.3
+880,72990,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,17.3
+881,57990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+882,187990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,16.0
+883,66490,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+884,54450,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6
+885,63308,Intel Core i3 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+886,107990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,15.6
+887,44990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 10 Operating System,512 GB SSD,15.6
+888,76999,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+889,64821,Intel Core i5 Processor (8th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,2 TB HDD,15.6
+890,244801,Intel Core i7 Processor (8th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14.0
+891,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+892,163990,Intel Core i7 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,13.3
+893,68990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+894,105990,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14.0
+895,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+896,35891,Intel Pentium Quad Core Processor,4 GB DDR4 RAM,Windows 11 Operating System,256 GB SSD,14.0
+897,161990,AMD Ryzen 9 Octa Core Processor,16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,15.6
+898,76990,Intel Core i5 Processor (7th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6
+899,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+900,52490,Intel Core i5 Processor (4th Gen),8 GB DDR3 RAM,64 bit Windows 8 Operating System,1 TB HDD,15.6
+901,59490,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+902,101299,Intel Core i5 Processor (12th Gen),8 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,17.0
+903,158000,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,16.1
+904,66990,Intel Core i7 Processor (9th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+905,55190,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+906,189990,AMD Ryzen 9 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+907,62890,Intel Core i5 Processor (8th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14.0
+908,24800,Intel Pentium Quad Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6
+909,23990,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,Windows 11 Operating System,256 GB SSD,15.6
+910,80590,Intel Core i7 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14.0
+911,63490,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+912,73990,Intel Core i5 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+913,44990,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14.0
+914,59990,Intel Core i5 Processor (8th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6
+915,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+916,39690,Intel Core i3 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,14.96
+917,65990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,16.0
+918,149990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+919,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+920,138550,Intel Core i7 Processor (10th Gen),16 GB DDR4 RAM,Windows 10 Operating System,512 GB SSD,12.0
+921,64990,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+922,27990,Intel Celeron Quad Core Processor,4 GB LPDDR4 RAM,64 bit Chrome Operating System,512 GB SSD,14.0
+923,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+924,231400,Intel Core i7 Processor (9th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6
+925,65200,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+926,39643,Intel Core i3 Processor (10th Gen),4 GB DDR4 RAM,Windows 10 Operating System,1 TB HDD,15.6
+927,34990,Intel Core i3 Processor (11th Gen),4 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,14.0
+928,155411,Intel Core i5 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB HDD|512 GB SSD,14.0
+929,20990,Intel Celeron Dual Core Processor (4th Gen),4 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB HDD|512 GB SSD,11.6
+930,43500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+931,56990,Intel Core i5 Processor (8th Gen),4 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6
+932,35500,Intel Pentium Quad Core Processor (11th Gen),4 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6
+933,36600,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,Windows 11 Operating System,256 GB HDD,15.6
+934,40499,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+935,56900,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+936,179999,AMD Ryzen 7 Octa Core Processor,32 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.0
+937,32990,Intel Core i3 Processor (10th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+938,79258,Intel Core i5 Processor (8th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6
+939,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+940,69890,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+941,132790,Intel Core i5 Processor (10th Gen),8 GB LPDDR3 RAM,64 bit Windows 10 Operating System,512 GB SSD,14.0
+942,88990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+943,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+944,85990,Intel Core i5 Processor (8th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14.0
+945,93990,Intel Core i7 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,14.0
+946,174527,Intel Core i7 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,13.3
+947,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+948,127000,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,13.3
+949,174250,Intel Core i7 Processor (10th Gen),16 GB LPDDR3 RAM,64 bit Windows 10 Operating System,512 GB SSD,14.0
+950,57090,Intel Core i5 Processor (9th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+951,32990,Intel Core i3 Processor (10th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+952,50490,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+953,67990,Intel Core i7 Processor (8th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,14.0
+954,165990,Intel Core i7 Processor (10th Gen),16 GB LPDDR3 RAM,64 bit Windows 10 Operating System,1 TB SSD,14.0
+955,82990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+956,81998,Intel Core i5 Processor (8th Gen),8 GB DDR3 RAM,64 bit Windows 10 Operating System,256 GB SSD,14.0
+957,187990,AMD Ryzen 9 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6
+958,68180,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.0
+959,45990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+960,88990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+961,66890,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+962,47990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+963,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+964,19990,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,Windows 11 Operating System,128 GB SSD,14.1
+965,16990,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,Chrome Operating System,128 GB SSD,11.6
+967,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+968,76990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14.0
+969,27990,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,Windows 11 Operating System,256 GB SSD,15.6
+970,41990,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6
+971,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.0
+972,99999,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6
+973,73490,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+974,51990,Intel Core i7 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,14.0
+975,205000,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,17.3
+976,46990,Intel Core i7 Processor (10th Gen),16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,14.0
+977,67500,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6
+978,21990,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,Chrome Operating System,512 GB SSD,14.0
+979,37990,Intel Core i3 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6
+980,22670,MediaTek MediaTek Kompanio 500 Processor,4 GB LPDDR4X RAM,Chrome Operating System,1 TB HDD,11.6
+981,54990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14.0
+982,40990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6
+983,24540,Intel Celeron Dual Core Processor (10th Gen),4 GB DDR4 RAM,Windows 11 Operating System,256 GB SSD,14.0

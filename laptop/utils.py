@@ -1,6 +1,10 @@
 import pickle
 import json
 import numpy as np
+import sys
+import os
+from laptop.logger import logging
+from laptop.exception import CustomException
 
 __names = None
 # __data_name =None
@@ -16,6 +20,19 @@ __rams = None
 __data_ram =None
 
 __model = None
+
+
+def save_object(file_path, obj):
+    try:
+        dir_path = os.path.dirname(file_path)
+
+        os.makedirs(dir_path, exist_ok=True)
+
+        with open(file_path, "wb") as file_obj:
+            pickle.dump(obj, file_obj)
+
+    except Exception as e:
+        raise CustomException(e, sys)
 
 # def get_estimated_price(name,processor,ram,os,storage,display):
 #     try:

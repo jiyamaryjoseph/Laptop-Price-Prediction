@@ -74,7 +74,7 @@ h2 {
   border-radius: 5px;
 }
 
-.name{
+.check{
   font-family: "Roboto", sans-serif;
   outline: 0;
   background: grey;
@@ -87,79 +87,16 @@ h2 {
   height: 40px;
   border-radius: 5px;
 }
-.processor{
-	font-family: "Roboto", sans-serif;
-	outline: 0;
-	background: grey;
-	width: 100%;
-	border: 0;
-	margin: 0 0 10px;
-	padding: 10px;
-	box-sizing: border-box;
-	font-size: 15px;
-	height: 40px;
-	border-radius: 5px;
-  }
-  .os{
-	font-family: "Roboto", sans-serif;
-	outline: 0;
-	background: grey;
-	width: 100%;
-	border: 0;
-	margin: 0 0 10px;
-	padding: 10px;
-	box-sizing: border-box;
-	font-size: 15px;
-	height: 40px;
-	border-radius: 5px;
-  }
-  .ram{
-	font-family: "Roboto", sans-serif;
-	outline: 0;
-	background: grey;
-	width: 100%;
-	border: 0;
-	margin: 0 0 10px;
-	padding: 10px;
-	box-sizing: border-box;
-	font-size: 15px;
-	height: 40px;
-	border-radius: 5px;
-  }
-  .storage{
-	font-family: "Roboto", sans-serif;
-	outline: 0;
-	background: grey;
-	width: 100%;
-	border: 0;
-	margin: 0 0 10px;
-	padding: 10px;
-	box-sizing: border-box;
-	font-size: 15px;
-	height: 40px;
-	border-radius: 5px;
-  }
-  .display{
-	font-family: "Roboto", sans-serif;
-	outline: 0;
-	background: grey;
-	width: 100%;
-	border: 0;
-	margin: 0 0 10px;
-	padding: 10px;
-	box-sizing: border-box;
-	font-size: 15px;
-	height: 40px;
-	border-radius: 5px;
-  }
+
   
 .submit{
-  background: #dcd686;
+  background: white;
   width: 76%;
   border: 0;
   margin: 25px 0 10px;
   box-sizing: border-box;
   font-size: 15px;
+  
 	height: 35px;
 	text-align: center;
 	border-radius: 5px;

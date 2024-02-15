@@ -2,7 +2,7 @@ conda activate # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-
+laptop-prediction_dummy.ipynb
 # C extensions
 *.so
 
@@ -120,13 +120,16 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+.myenv
 .env
 .venv
+myenv/
 env/
 venv/
 ENV/
 env.bak/
 venv.bak/
+myenv.bak/
 
 # Spyder project settings
 .spyderproject

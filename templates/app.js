@@ -5,12 +5,20 @@
 function onClickedEstimatePrice() {
   console.log("Estimate price button clicked");
   
-  var name = document.getElementById("uiName");
-  var processor = document.getElementById("uiProcessor");
+  var brand = document.getElementById("uiBrand");
+  var laptoptype = document.getElementById("uiLaptoptype");
   var ram = document.getElementById("uiRam");
+  var weight = document.getElementById("uiWeight");
   var os = document.getElementById("uiOs");
-  var storage = document.getElementById("uiStorage");
-  var display = document.getElementById("uiDisplay");
+  var gpu = document.getElementById("uiGpu");
+  var touchscreen = document.getElementById("uiTouchscreen");
+  var ips = document.getElementById("uiIps");
+  var harddrive = document.getElementById("uiHarddrive");
+  
+  var ssd = document.getElementById("uiSsd");
+  var screen = document.getElementById("uiScreen");
+  var screensize = document.getElementById("uiScreensize");
+  var processor = document.getElementById("uiProcessor");
   var estPrice = document.getElementById("uiEstimatedPrice");
 
   var url = "http://127.0.0.1:5000/predict_laptop_price"; //Use this if you are NOT using nginx which is first 7 tutorials
@@ -18,12 +26,21 @@ function onClickedEstimatePrice() {
 
   $.post(url, {
     
-      name: name.value,
-      processor: processor.value,
+      brand: brand.value,
+      laptoptype: laptoptype.value,
       ram: ram.value,
+      weight: weight.value,
       os: os.value,
-      storage: storage.value,
-      display: display.value,
+      gpu: gpu.value,
+      touchscreen: touchscreen.value,
+      ips: ips.value,
+      harddrive: harddrive.value,
+      ssd: ssd.value,
+      screen: screen.value,
+      screensize: screensize.value,
+      processor: processor.value,
+
+
 
 
 
@@ -41,48 +58,99 @@ function onPageLoad() {
   $.get(url,function(data, status) {
       console.log("got response for get_location_names request");
       if(data) {
-          var names = data.names;
-          var processors = data.processors;
-          var oss = data.oss;
+          var brands = data.brands;
+          var laptoptypes = data.laptoptypes;
           var rams = data.rams;
-          var displays = data.displays;
-          var storages = data.storages;
+          var weights = data.weights;
+          var oss = data.oss;
+          var gpus = data.gpus;
+          var touchscreens = data.touchscreens;
+          var ipss = data.ipss;
+          var harddrives = data.harddrives;
+          var ssds = data.ssds;
+          var gpus = data.gpus;
+          var screens = data.screens;
+          var screensizes = data.screensizes;
+          var processors = data.processors;
 
-          var uiName = document.getElementById("uiName");
-          var uiProcessor = document.getElementById("uiProcessor");
-          var uiOs = document.getElementById("uiOs");
+          var uiBrand = document.getElementById("uiBrand");
+          var uiLaptoptype = document.getElementById("uiLaptoptype");
           var uiRam = document.getElementById("uiRam");
-          var uiStorage = document.getElementById("uiStorage");
-          var uiDisplay = document.getElementById("uiDisplay");
-          $('#uiName').empty();
-          for(var i in names) {
-              var opt = new Option(names[i]);
-              $('#uiName').append(opt);
+          var uiWeight = document.getElementById("uiWeight");
+          var uiOs = document.getElementById("uiOs");
+          var uiGpu = document.getElementById("uiGpu");
+          var uiTouchscreen = document.getElementById("uiTouchscreen");
+          var uiIps = document.getElementById("uiIps");
+          var uiHarddrive = document.getElementById("uiHarddrive");
+          var uiSsd = document.getElementById("uiSsd");
+          var uiScreen = document.getElementById("uiScreen");
+          var uiScreensize = document.getElementById("uiScreensize");
+          var uiProcessor = document.getElementById("uiProcessor");
+          
+          $('#uiBrand').empty();
+          for(var i in rams) {
+              var opt = new Option(brands[i]);
+              $('#uiBrand').append(opt);
           }
-          $('#uiProcessor').empty();
-          for(var i in names) {
-              var opt = new Option(processors[i]);
-              $('#uiProcessor').append(opt);
-          }
-          $('#uiOs').empty();
-          for(var i in oss) {
-              var opt = new Option(oss[i]);
-              $('#uiOs').append(opt);
+          $('#uiLaptoptype').empty();
+          for(var i in laptoptypes) {
+              var opt = new Option(laptoptypes[i]);
+              $('#uiLaptoptype').append(opt);
           }
           $('#uiRam').empty();
           for(var i in rams) {
               var opt = new Option(rams[i]);
               $('#uiRam').append(opt);
           }
-          $('#uiStorage').empty();
-          for(var i in storages) {
-              var opt = new Option(storages[i]);
-              $('#uiStorage').append(opt);
+          $('#uiWeight').empty();
+          for(var i in weights) {
+              var opt = new Option(weights[i]);
+              $('#uiWeight').append(opt);
           }
-          $('#uiDisplay').empty();
-          for(var i in displays) {
-              var opt = new Option(displays[i]);
-              $('#uiDisplay').append(opt);
+          $('#uiOs').empty();
+          for(var i in oss) {
+              var opt = new Option(oss[i]);
+              $('#uiOs').append(opt);
+          }
+          $('#uiGpu').empty();
+          for(var i in gpus) {
+              var opt = new Option(gpus[i]);
+              $('#uiGpu').append(opt);
+          }
+          $('#uiTouchscreen').empty();
+          for(var i in touchscreens) {
+              var opt = new Option(touchscreens[i]);
+              $('#uiTouchscreen').append(opt);
+          }
+          $('#uiIps').empty();
+          for(var i in ipss) {
+              var opt = new Option(ipss[i]);
+              $('#uiIps').append(opt);
+          }
+          $('#uiHarddrive').empty();
+          for(var i in harddrives) {
+              var opt = new Option(harddrives[i]);
+              $('#uiHarddrive').append(opt);
+          }
+          $('#uiSsd').empty();
+          for(var i in ssds) {
+              var opt = new Option(ssds[i]);
+              $('#uiSsd').append(opt);
+          }
+          $('#uiScreen').empty();
+          for(var i in screens) {
+              var opt = new Option(screens[i]);
+              $('#uiScreen').append(opt);
+          }
+          $('#uiScreensize').empty();
+          for(var i in screensizes) {
+              var opt = new Option(screensizes[i]);
+              $('#uiScreensize').append(opt);
+          }
+          $('#uiProcessor').empty();
+          for(var i in processors) {
+              var opt = new Option(processors[i]);
+              $('#uiProcessor').append(opt);
           }
       }
   });

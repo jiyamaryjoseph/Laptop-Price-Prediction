@@ -4,7 +4,8 @@
 
 function onClickedEstimatePrice() {
   console.log("Estimate price button clicked");
-  
+
+
   var brand = document.getElementById("uiBrand");
   var laptoptype = document.getElementById("uiLaptoptype");
   var ram = document.getElementById("uiRam");
@@ -14,10 +15,9 @@ function onClickedEstimatePrice() {
   var touchscreen = document.getElementById("uiTouchscreen");
   var ips = document.getElementById("uiIps");
   var harddrive = document.getElementById("uiHarddrive");
-  
   var ssd = document.getElementById("uiSsd");
   var screen = document.getElementById("uiScreen");
-  var screensize = document.getElementById("uiScreensize");
+  var screenresolution = document.getElementById("uiScreenresolution");
   var processor = document.getElementById("uiProcessor");
   var estPrice = document.getElementById("uiEstimatedPrice");
 
@@ -37,7 +37,7 @@ function onClickedEstimatePrice() {
       harddrive: harddrive.value,
       ssd: ssd.value,
       screen: screen.value,
-      screensize: screensize.value,
+      screenresolution:screenresolution.value,
       processor: processor.value,
 
 
@@ -46,7 +46,7 @@ function onClickedEstimatePrice() {
 
   },function(data, status) {
       console.log(data.estimated_price);
-      estPrice.innerHTML = "<h2>" + data.estimated_price.toString() + " Lakh</h2>";
+      estPrice.innerHTML = "<h2> &#8377 " + data.estimated_price.toLocaleString() + "</h2>";
       console.log(status);
   });
 }
@@ -54,9 +54,9 @@ function onClickedEstimatePrice() {
 function onPageLoad() {
   console.log( "document loaded" );
   var url = "http://127.0.0.1:5000/get_all_data"; // Use this if you are NOT using nginx which is first 7 tutorials
-  // var url = "/api/get_location_names"; // Use this if  you are using nginx. i.e tutorial 8 and onwards
+//   var url = "/api/get_location_names"; // Use this if  you are using nginx. i.e tutorial 8 and onwards
   $.get(url,function(data, status) {
-      console.log("got response for get_location_names request");
+      console.log("got response for get_all_data request");
       if(data) {
           var brands = data.brands;
           var laptoptypes = data.laptoptypes;
@@ -64,13 +64,13 @@ function onPageLoad() {
           var weights = data.weights;
           var oss = data.oss;
           var gpus = data.gpus;
-          var touchscreens = data.touchscreens;
+          var touchscreens = data.touchscreen;
           var ipss = data.ipss;
-          var harddrives = data.harddrives;
+          var harddrives = data.hdds;
           var ssds = data.ssds;
           var gpus = data.gpus;
+          var screenresolutions = data.screenresolutions;
           var screens = data.screens;
-          var screensizes = data.screensizes;
           var processors = data.processors;
 
           var uiBrand = document.getElementById("uiBrand");
@@ -84,7 +84,7 @@ function onPageLoad() {
           var uiHarddrive = document.getElementById("uiHarddrive");
           var uiSsd = document.getElementById("uiSsd");
           var uiScreen = document.getElementById("uiScreen");
-          var uiScreensize = document.getElementById("uiScreensize");
+          var uiScreenresolution = document.getElementById("uiScreenresolution");
           var uiProcessor = document.getElementById("uiProcessor");
           
           $('#uiBrand').empty();
@@ -137,15 +137,15 @@ function onPageLoad() {
               var opt = new Option(ssds[i]);
               $('#uiSsd').append(opt);
           }
+          $('#uiScreenresolution').empty();
+          for(var i in screenresolutions) {
+              var opt = new Option(screenresolutions[i]);
+              $('#uiScreenresolution').append(opt);
+          }
           $('#uiScreen').empty();
           for(var i in screens) {
               var opt = new Option(screens[i]);
               $('#uiScreen').append(opt);
-          }
-          $('#uiScreensize').empty();
-          for(var i in screensizes) {
-              var opt = new Option(screensizes[i]);
-              $('#uiScreensize').append(opt);
           }
           $('#uiProcessor').empty();
           for(var i in processors) {

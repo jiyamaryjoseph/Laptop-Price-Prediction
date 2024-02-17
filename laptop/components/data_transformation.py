@@ -25,10 +25,13 @@ class DataTransformation:
         try:
             logging.info('Data Transformation initiated')
             step1 = ColumnTransformer(transformers=[('col_tnf',OneHotEncoder(sparse=False,drop='first'),[0,1,7,10,11])],remainder='passthrough')
-            step2 = StandardScaler()
+            # step2 = StandardScaler()
             logging.info('Pipeline Initiated')
 
-            preprocessor = Pipeline([('step1',step1),('step2',step2)])
+            preprocessor = Pipeline([('step1',step1),
+                                     
+                                    #  ('step2',step2)
+                                     ])
             
                      
             return preprocessor

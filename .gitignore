@@ -2,7 +2,7 @@ conda activate # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-laptop-prediction_dummy.ipynb
+
 # C extensions
 *.so
 
@@ -75,12 +75,17 @@ docs/_build/
 .pybuilder/
 target/
 
+
+unittst.csv
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
 # IPython
 profile_default/
 ipython_config.py
+unittest.ipynb
+laptop-prediction_dummy.ipynb
 
 # pyenv
 #   For a library or package, you might want to ignore these files since the code is

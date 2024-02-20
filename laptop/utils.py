@@ -108,7 +108,7 @@ def load_saved_artifacts():
 
 
 
-    with open("artifacts/columns.json", "r") as f:
+    with open("./artifacts/columns.json", "r") as f:
         data=json.load(f)        
        
         
@@ -145,7 +145,7 @@ def load_saved_artifacts():
 
     global __model
     if __model is None:
-        with open('artifacts/model.pkl', 'rb') as f:
+        with open('./artifacts/model.pkl', 'rb') as f:
             __model = pickle.load(f)
     print("loading saved artifacts...done")
     print()
@@ -177,7 +177,3 @@ def get_all_data():
 if __name__ == '__main__':
     load_saved_artifacts()
     print(get_all_data())
-    # print(get_estimated_price('1st Phase JP Nagar',1000, 3, 3))
-    # print(get_estimated_price('1st Phase JP Nagar', 1000, 2, 2))
-    # print(get_estimated_price('Kalhalli', 1000, 2, 2)) # other location
-    # print(get_estimated_price('Ejipura', 1000, 2, 2))  # other location

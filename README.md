@@ -1,10 +1,14 @@
+
 # Laptop Price Prediction Website
+
+This project provides a comprehensive guide on building a website for predicting laptop prices based on various features. It includes data collection, preprocessing, model building, Flask server development, and website creation.
+
+
 ![image](https://github.com/jiyamaryjoseph/Laptop-Price-Prediction/assets/83010684/c5950a93-7011-486c-a0ad-00541c4b9d60)
 
 
 
 
-This project is a comprehensive walkthrough of building a website where users can predict the price of a laptop based on various features. It covers data collection, preprocessing, model building, Flask server development, and website development.
 
 ## Project Overview
 
@@ -53,14 +57,17 @@ The project aims to build a website where users can predict the price of a lapto
 5. Flask
 6. HTML/CSS/JavaScript
 7. Jupyter Notebook and Visual Studio
+8. NGINX webserver
+9. AWS EC2
 
 ## Project Flow
 
 1. Data Collection and Cleaning
 2. Model Building
 3. Flask Server Development
-4. Website Development
+4. Website Deployment
 
 ## Conclusion
 
 This project covers a wide range of data science concepts and technologies, from data cleaning and preprocessing to model building, evaluation, and web development. It provides a hands-on learning experience for anyone interested in building predictive models and deploying them as web applications.
+

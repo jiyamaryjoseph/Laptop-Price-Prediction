@@ -3,6 +3,9 @@
 
 This project provides a comprehensive guide on building a website for predicting laptop prices based on various features. It includes data collection, preprocessing, model building, Flask server development, and website creation.
 
+![lap](https://github.com/jiyamaryjoseph/Laptop-Price-Prediction/assets/83010684/62120764-9a65-4538-a1f0-d32da51bd3f3)
+
+
 
 ![image](https://github.com/jiyamaryjoseph/Laptop-Price-Prediction/assets/83010684/c5950a93-7011-486c-a0ad-00541c4b9d60)
 
